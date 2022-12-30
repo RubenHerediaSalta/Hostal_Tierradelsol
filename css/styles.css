@@ -80,7 +80,6 @@ html{
     transition: all ease-out 0.2s;
 }
 .card-border:hover{
-    transform: scale(1.2);
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 /*-----------------------------------------*/
